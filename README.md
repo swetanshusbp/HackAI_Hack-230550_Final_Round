@@ -6,27 +6,27 @@ TEAM NAME: Tensor Tamers
 COLLEGE: SRM INSTITUTE OF SCIENCE AND TECHNOLOGY, 
 LOCATION: KATTANKULATHUR
 
-Swetanshu Agrawal - Team Lead 
-Email - sa0029@srmist.edu.in
-Phone no. - +91 7894035770
-Year-3rd Year
-Specialization or Major: CSE with Specialization in AIML
-LinkedIn Id:https://www.linkedin.com/in/swetanshu-agrawal/
+Swetanshu Agrawal - Team Lead <br>
+Email - sa0029@srmist.edu.in <br>
+Phone no. - +91 7894035770 <br>
+Year-3rd Year <br>
+Specialization or Major: CSE with Specialization in AIML <br>
+LinkedIn Id:https://www.linkedin.com/in/swetanshu-agrawal/ <br>
 
-Samudra Banerjee
-Email - ss9148@srmist.edu.in
-Phone no. - +91 9903382548
-Year-3rd Year
-Specialization or Major: CSE with Specialization in Software
-LinkedIn:https://www.linkedin.com/in/samudra-banerjee-9b4466217/
+Samudra Banerjee <br>
+Email - ss9148@srmist.edu.in <br>
+Phone no. - +91 9903382548 <br>
+Year-3rd Year <br>
+Specialization or Major: CSE with Specialization in Software <br>
+LinkedIn:https://www.linkedin.com/in/samudra-banerjee-9b4466217/ <br>
 
 
-Ritveek Rana
-Email - rr8499@srmist.edu.in
-Phone no. - +91 9382756045
-Year-3rd Year
-Specialization or Major: CSE with Specialization in AIML
-LinkedIn Id: https://www.linkedin.com/in/ritveekrana/
+Ritveek Rana <br>
+Email - rr8499@srmist.edu.in <br>
+Phone no. - +91 9382756045 <br>
+Year-3rd Year <br>
+Specialization or Major: CSE with Specialization in AIML <br>
+LinkedIn Id: https://www.linkedin.com/in/ritveekrana/ <br>
 
 # Stock Price Prediction Using LSTM
 
@@ -78,5 +78,21 @@ Enhance the preprocessing step to handle more complex resume formats and layouts
 
 ## Disclaimer
 This project is intended as a tool to assist in the initial stages of the resume screening process. It is not designed to replace human judgment and decision-making in recruitment. The effectiveness of the model depends on the quality and diversity of the training dataset. Users should be aware of potential biases in the dataset and use the tool accordingly. The creators of this project are not responsible for any decisions made based on the model's output.
+
+## A wonderful journey of fetch.AI:
+
+Gotta say, the entire 12 hours of fetch.AI competition was a good exercise to get us moving again after having not touched any development related for more than a month. While we are at this, let us document our journey throughout this 12 hours of developer gymnastics :
+
+1. Never touched anything like uAgents library before, so it was imperative for us to thouroughly read the docs and understand the syntax and use cases as fast as possible
+
+2. Local testing and modification of modules before integration with other parts of the project
+
+3. Two sweet CCD sundaes along with lots of sugar rich CCD delicacies. Experienced sugar high and crash like never before, so got stalled for two hours.
+
+4. Thought of creating multiple different util files to deal with the agents, however seeing the simplicity of the solution, and our personal preferences to stick to as many least terminals as possible, integrated the final prediction model and agents into one file
+
+5. At first, we thought of integrating with Class modules in python. Preferred much more simplicity so stuck to the above step.
+
+6. Woo, integrating the models into the uAgents eco-system was a nice and refreshing challenge ... we would love to attend more of this!
 
 
