@@ -127,29 +127,15 @@ def save_base64_to_pdf(base64_string, output_path):
     return output_path
 
 
-# In[13]:
-
-# class Screening()
-# Example usage with base64 encoded PDF
-
-# pdf_path = save_base64_to_pdf(base64_string, 'output_resume.pdf')
-# predicted_category = predict_category_pdf(pdf_path, clf, tfidf_vectorizer, label_encoder)
-# print(f"The predicted category for the new resume is: {predicted_category}")
-
-
-# In[ ]:
 
 
 #Do not run this while on campus/college wifi or on Jio network
 
 def screening(path):
     predicted_category = predict_category_pdf(path, clf, tfidf_vectorizer, label_encoder)
-    print(f"The predicted category for the new resume is: {predicted_category}")
-
+    return predicted_category
 class Message(Model):
     message: str
-
-n =  ""
 
 client = Agent(name = "client", seed = "client path")
 model =  Agent(name = "client", seed = "model")
@@ -159,13 +145,13 @@ async def get_file(ctx: Context):
     ctx.logger.info(f'Please enter the name of the new resume along with .pdf extension in the resumes folder to be assessed')
     n = input()
     pdf_path = os.path.join(base_path,n)
-    ctx.logger.info(pdf_path)
-    result = await ctx.send(model.address,Message(message=pdf_path))
+    ctx.logger.info(f'"{pdf_path}" sent as path of the resume to be reviewed')
+    await ctx.send(model.address,Message(message=pdf_path))
     
 @model.on_message(model=Message)
 async def get_result(ctx:Context, sender:str, msg:Message):
-    ctx.logger.info(msg.message)
-    return screening(msg.message)
+    result = screening(msg.message)
+    ctx.logger.info(f'This applicant is favourable for the position of: {result}')
     
 bureau = Bureau()
 bureau.add(client)
