@@ -11,9 +11,25 @@ Installation Instructions
 Clone the Repository:
 Clone the project repository to your local machine.
 
-### Install Python Libraries:
+### Install Python Libraries and Dependencies:
 
-Install the required Python libraries using pip:
+1. After opening the terminal with its current directory at root, navigate to Stock_Prediction > uAgents > python and type and enter the following commands sequentially:
+
+    ## poetry install
+    ## poetry shell
+
+2. After the above step, please navigate to Stock_Prediction > uAgents > python > src > agents and type and enter the following commands sequentially:
+
+    ## pip install -r requirements.txt
+    ## pip install -r requirements1.txt
+
+    # Please note that two requirements.txt files are required due to conflicting versions of the tensorflow and keras modules due to the version differences between the machines on which it was trained and which it was integrated into the repository
+
+3. After the above step, assuming you are still in the current working directory of agents, hit the following command in terminal:
+
+    ## python client.py
+
+4. Enjoy and have a good day
 
 
 pip install numpy pandas scikit-learn
