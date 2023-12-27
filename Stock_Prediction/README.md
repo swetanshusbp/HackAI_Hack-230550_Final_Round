@@ -53,14 +53,14 @@ The accuracy of predictions depends on the quality and recency of the stock data
 
 ### The two screenshots below are an example of a successful scenario in which the correct date format and the correct stock name has been entered :
 
-!(https://github.com/swetanshusbp/HackAI_Hack-230550_Final_Round/blob/main/Stock_Prediction/success.png)
+![Alt text](success-1.png)
 
-!(https://github.com/swetanshusbp/HackAI_Hack-230550_Final_Round/blob/main/Stock_Prediction/success_graph.png)
+![Alt text](success_graph-1.png)
 
 ### The screenshot below is an example of a scenario in which the entered date format is different from the acceptable one :
 
-!(https://github.com/swetanshusbp/HackAI_Hack-230550_Final_Round/blob/main/Stock_Prediction/date_wrong.png)
+![Alt text](date_wrong-1.png)
 
 ### The screenshot below is an example of a scenario in which the entered stock name is not correct/registered :
 
-!(https://github.com/swetanshusbp/HackAI_Hack-230550_Final_Round/blob/main/Stock_Prediction/name_wrong.png)
+![Alt text](name_wrong-1.png)
