@@ -63,7 +63,7 @@ def plot_predictions_base64(train, valid):
     plt.ylabel('Close Price USD ($)', fontsize=18)
     plt.plot(train['Close'])
     plt.plot(valid[['Close', 'Predictions']])
-    plt.legend(['Actual', 'Predictions'], loc='lower right')
+    plt.legend(['Actual', 'Actual', 'Predictions'], loc='lower right')
 
     # Display the plot
     plt.show()
