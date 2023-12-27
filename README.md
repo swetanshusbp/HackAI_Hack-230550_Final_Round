@@ -1,7 +1,32 @@
-# Team ID: Hack-230550
 # Team Name: The Three Coders
-# Team Details:
-Team Lead: Swetanshu Agrawal
+## Team ID: Hack-230550
+### Team Details:
+TEAM ID  - Tech-230306
+TEAM NAME: Tensor Tamers
+COLLEGE: SRM INSTITUTE OF SCIENCE AND TECHNOLOGY, 
+LOCATION: KATTANKULATHUR
+
+Swetanshu Agrawal - Team Lead 
+Email - sa0029@srmist.edu.in
+Phone no. - +91 7894035770
+Year-3rd Year
+Specialization or Major: CSE with Specialization in AIML
+LinkedIn Id:https://www.linkedin.com/in/swetanshu-agrawal/
+
+Samudra Banerjee
+Email - ss9148@srmist.edu.in
+Phone no. - +91 9903382548
+Year-3rd Year
+Specialization or Major: CSE with Specialization in Software
+LinkedIn:https://www.linkedin.com/in/samudra-banerjee-9b4466217/
+
+
+Ritveek Rana
+Email - rr8499@srmist.edu.in
+Phone no. - +91 9382756045
+Year-3rd Year
+Specialization or Major: CSE with Specialization in AIML
+LinkedIn Id: https://www.linkedin.com/in/ritveekrana/
 
 # Stock Price Prediction Using LSTM
 
