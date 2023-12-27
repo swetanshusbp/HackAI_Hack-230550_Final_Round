@@ -60,11 +60,6 @@ Running the Project
 Prepare Your Dataset:
 Ensure your dataset of resumes is in CSV format and is accessible to the script.
 
-### Run the Script:
-### Execute the main script:
-
-python main.py
-Replace main.py with the name of your Python script.
 
 ### Using the Application:
 

@@ -39,13 +39,6 @@ Running the Project
 Fetch stock data from a reliable source, such as Yahoo Finance(https://finance.yahoo.com/trending-tickers/?.tsrc=fin-srch).
 Make sure to use valid stock tickers as input.
 
-### Run the Script:
-### Execute the main script:
-
-
-python main.py
-Replace main.py with the name of your Python script.
-
 #### Using the Application:
 
 Input the stock ticker symbols as instructed by the script.
@@ -56,3 +49,6 @@ The script will fetch the data, perform analysis, and output predictions.
 Ensure that you have a stable internet connection to fetch stock data.
 The accuracy of predictions depends on the quality and recency of the stock data used.
 
+### Use cases:
+
+    
