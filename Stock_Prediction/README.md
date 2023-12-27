@@ -23,7 +23,7 @@ Clone the project repository to your local machine.
     ## pip install -r requirements.txt
     ## pip install -r requirements1.txt
 
-    # Please note that two requirements.txt files are required due to conflicting versions of the tensorflow and keras modules due to the version differences between the machines on which it was trained and which it was integrated into the repository
+    ### Please note that two requirements.txt files are required due to conflicting versions of the tensorflow and keras modules due to the version differences between the machines on which it was trained and which it was integrated into the repository
 
 3. After the above step, assuming you are still in the current working directory of agents, hit the following command in terminal:
 
