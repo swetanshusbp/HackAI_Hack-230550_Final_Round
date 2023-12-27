@@ -91,6 +91,8 @@ Gotta say, the entire 12 hours of fetch.AI competition was a good exercise to ge
 
 5. At first, we thought of integrating with Class modules in python. Preferred much more simplicity so stuck to the above step.
 
-6. Woo, integrating the models into the uAgents eco-system was a nice and refreshing challenge ... we would love to attend more of this!
+6. We had a bit of trouble with version conflicts because of the development environments being different among our teammates. The modules giving us a hard time were Tensorflow and Keras. Thankfully, we managed to resolve it thanks to using two requirements.txt files. The version conflict was present in the Stock_Prediction module and more about it can be explored in detail. If you would like to resolve the issue, please feel free to pull a fork and raise a pull request as needed.
+
+7. Woo, integrating the models into the uAgents eco-system was a nice and refreshing challenge ... we would love to attend more of this!
 
 
