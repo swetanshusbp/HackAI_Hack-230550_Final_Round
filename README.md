@@ -1,6 +1,6 @@
-Team ID: Hack-230550
-Team Name: The Three Coders
-Team Details:
+# Team ID: Hack-230550
+# Team Name: The Three Coders
+# Team Details:
 Team Lead: Swetanshu Agrawal
 
 # Stock Price Prediction Using LSTM
