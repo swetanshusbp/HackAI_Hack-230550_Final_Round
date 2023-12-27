@@ -1,10 +1,8 @@
-# Team Name: The Three Coders
+# Team Name: Tensor Tamers
 ## Team ID: Hack-230550
 ### Team Details:
-TEAM ID  - Tech-230306
-TEAM NAME: Tensor Tamers
-COLLEGE: SRM INSTITUTE OF SCIENCE AND TECHNOLOGY, 
-LOCATION: KATTANKULATHUR
+COLLEGE: SRM INSTITUTE OF SCIENCE AND TECHNOLOGY, <br>
+LOCATION: KATTANKULATHUR <br>
 
 Swetanshu Agrawal - Team Lead <br>
 Email - sa0029@srmist.edu.in <br>
